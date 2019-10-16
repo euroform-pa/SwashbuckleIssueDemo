@@ -1,3 +1,9 @@
+# Fix for Xml sample generation error
+Add `CustomXmlSchemaFilter` as SchemaFilter to fix error with Xml sample generation.
+[CustomXmlSchemaFilter.cs](/SampleWebApi/CustomXmlSchemaFilter.cs)
+
+_Note: Use `Swashbuckle.AspNetCore, Version=5.0.0-rc4`_
+
 # SwashbuckleIssueDemo
 Demo project to show Xml sample generation error
 
